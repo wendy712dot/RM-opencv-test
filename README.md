@@ -36,6 +36,7 @@ PythonProject/
 │ 
 └── 📁 my_photos/                   # 实验三拍摄的用于标定相机的模块  
 ```
+<img width="1384" height="973" alt="ubuntu-opencv" src="https://github.com/user-attachments/assets/39bb6013-afba-4ac5-bbbc-2850d39add87" />
 
 process/ 中为程序运行结果和部分ai对话记录
 
